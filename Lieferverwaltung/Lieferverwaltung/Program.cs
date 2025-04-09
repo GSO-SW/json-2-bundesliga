@@ -9,6 +9,7 @@
             Console.WriteLine(lieferungen.Count);
         }
 
+        // Datum ist im YYYY-MM-DD Format
         static void BeispielobjekteAnlegen()
         {
             lieferungen.Add(new Lieferung(
